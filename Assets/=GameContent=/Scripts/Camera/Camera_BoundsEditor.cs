@@ -1,4 +1,5 @@
-﻿using UnityEditor.IMGUI.Controls;
+﻿#if UNITY_EDITOR
+using UnityEditor.IMGUI.Controls;
 using UnityEngine;
 using UnityEditor;
 
@@ -49,3 +50,4 @@ namespace RedwoodTestTask
         //============================================================
     }
 }
+#endif

@@ -1268,7 +1268,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0.4
+  m_Volume: 0.3
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -2996,7 +2996,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: f623ab9f76d6af441928bccd7faa4cd8, type: 3}
   m_Resource: {fileID: 8300000, guid: f623ab9f76d6af441928bccd7faa4cd8, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.3
+  m_Volume: 0.15
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -3738,6 +3738,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec424995ed7b2a24ea527a6e1775d7b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  quitKey:
+    m_Name: Quit Key
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 4921444c-a0d5-4fcd-bcc7-b34bc2da9071
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: 268c6f24-88ec-451f-8ead-0ea4803a026b
+      m_Path: <Keyboard>/escape
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Quit Key
+      m_Flags: 0
+    m_Flags: 0
   gameOverScreen: {fileID: 1184864285}
 --- !u!1 &952822992
 GameObject:

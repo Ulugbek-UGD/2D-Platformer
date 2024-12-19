@@ -46,7 +46,7 @@ namespace RedwoodTestTask
             Instantiate(bullet, firePoint.position, firePoint.rotation);
             
             audioSource.pitch = Random.Range(0.9f, 1.1f);
-            audioSource.volume = Random.Range(0.4f, 0.5f);
+            audioSource.volume = Random.Range(0.3f, 0.4f);
             audioSource.PlayOneShot(fireSound);
             
             if (playerData.ammoCount > 0)
