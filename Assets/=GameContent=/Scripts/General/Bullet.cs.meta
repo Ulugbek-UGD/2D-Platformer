@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 20ac95e0a2f1e8148b8159ba6dd48cf5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - impactVFX: {fileID: 1083431924272733901, guid: 09ddda1d282893d43b1e54748c255944, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

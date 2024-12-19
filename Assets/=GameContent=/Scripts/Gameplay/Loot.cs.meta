@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 129a04ba8eccc454787f6f7d282ae7e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerData: {fileID: 11400000, guid: 4966a4badf3a9574a9e9675306a001d9, type: 2}
+  - lootSoundPrefab: {fileID: 8847721261272817371, guid: dbe797ff233c450428b7b8f781ca8446, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

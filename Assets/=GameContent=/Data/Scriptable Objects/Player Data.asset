@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e194e438c034c9247a4235a546864523, type: 3}
+  m_Name: Player Data
+  m_EditorClassIdentifier: 
+  _name: Player
+  maxHealth: 100
+  currentHealth: 100
+  isAlive: 1
+  fireRate: 0.15
+  ammoCount: 203
+  isFire: 0
+  facingDirection: 0
+  moveSpeed: 8
+  velocityX: 0
+  position: {x: -12.319988, y: 0.004999757}
